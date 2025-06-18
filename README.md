@@ -1,4 +1,4 @@
-GÜVENLİK SEBEİYLE API KEY BULUNAN YERLER "XXXXXX" ILE DEGISTIRILDI, BU SEBEPLE UYGULAMA SADECE .APK YUKLENDIGINDE CALISIR, EXPO GO'DA ÇALIŞMAZ. APK DOSYASI REPO'NUN İÇİNDE VERİLMİŞTİR.
+GÜVENLİK SEBEBİYLE API KEY BULUNAN YERLER "XXXXXX" ILE DEGISTIRILDI, BU SEBEPLE UYGULAMA SADECE .APK YUKLENDIGINDE CALISIR, EXPO GO'DA ÇALIŞMAZ. APK DOSYASI REPO'NUN İÇİNDE VERİLMİŞTİR.
 # 📱 Budget Tracker App
 
 Modern ve kullanıcı dostu bir bütçe takip uygulaması. React Native ile geliştirilmiş bu uygulama, kişisel finanslarınızı kolayca yönetmenizi sağlar.
