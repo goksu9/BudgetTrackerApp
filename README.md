@@ -22,7 +22,6 @@ Modern ve kullanıcı dostu bir bütçe takip uygulaması. React Native ile geli
 - Node.js (v14 veya üzeri)
 - React Native CLI
 - Android Studio (Android geliştirme için)
-- Xcode (iOS geliştirme için - sadece macOS)
 
 
 ## 📱 Kullanım
